@@ -1,0 +1,10 @@
+#  Credit Risk Prediction (Task 2)
+
+## Objective:
+Predict whether a loan applicant will default or not using machine learning.
+
+## Dataset:
+Loan Prediction Dataset (Kaggle)
+
+## Model Used:
+Logistic Regression (Binary Classification)
